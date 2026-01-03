@@ -1,6 +1,8 @@
-## I will be taking a break from modding, for at minimum another 3 months due to both burnout and university. Meanwhile please check out this alternative version of [Town of Us](https://github.com/AU-Avengers/TOU-Mira) (based off this mod) which should be maintained in my absence.
+> [!NOTE]
+> This repo is a fork of [Town of Us Reworked](https://github.com/eDonnes124/Town-Of-Us-R) and has been modified for **Mira Mod Launcher**. It is under active development, so expect bugs.\
+> This mod is NOT for console versions of Among Us and is NOT host-only. Please do not ask for a port or a rewrite.
 
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+-----------------------
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
