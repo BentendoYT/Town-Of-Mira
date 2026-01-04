@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repo is a fork of [Town of Us Reworked](https://github.com/eDonnes124/Town-Of-Us-R) and has been modified for **Mira Mod Launcher**. It is under active development, so expect bugs.\
+> This repo is a fork of [Town of Us Ractivated](https://github.com/eDonnes124/Town-Of-Us-R) and has been modified for **Mira Mod Launcher**. It is under active development, so expect bugs.\
 > This mod is NOT for console versions of Among Us and is NOT host-only. Please do not ask for a port or a rewrite.
 
 -----------------------
